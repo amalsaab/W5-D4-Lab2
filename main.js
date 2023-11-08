@@ -14,7 +14,7 @@ let mult = document.getElementById('*')
 let sum = document.getElementById('+')
 let div = document.getElementById('/')
 let reset = document.getElementById('reset')
-let calc = document.getElementById('=')
+let calc = document.getElementById('cal')
 let point = document.getElementById('.')
 let del = document.getElementById('del')
 
